@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<title> ProToon </title>
+</head>
+<link rel="icon" href="demo_icon.gif" type="image/gif" sizes="16x16">
+<center><img src="ProToon_logo.gif" width="300" height="120"></center>
+<center><a href="ProToon Page3.html"><img src="Link2.png" width="152" height="99"></a></center><center><a href="index.html"><img src="Link1.png" width="152" height="99"></center></a><center><a href="ProToon Page2.html"><img src="Link3.png" width="152" height="99" align="center"></center></a><center><a href="ProToon Page4.html"><img src="Link4.png" width="152" height="99"></a></center>
+<h3 style="color:"blue;" "font-family:verdana;">Welcome to the Official ProToon Animation Studio Website.</h3>
+<h3 style="color:red;" "font-family:helvetica;">Here you will find awesome content and animations.</h3>
+<center><img src ="channelart.jpg" width="730" height="570"> </center>
+<center>To find some other things head over to my <a href="https://www.youtube.com/channel/UC2ckWthaJQrlg7N3vS5mVUg">Channel</a> to see more random stuff</center>
+<link rel=icon href=/favicon.png>
+<body>
+<style>
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+body {
+  background: lightblue;
+}
+</style>
+<
+</body>
